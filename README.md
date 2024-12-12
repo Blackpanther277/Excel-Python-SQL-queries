@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of projects showc
 - **Data Analysis**: Advanced techniques like pivot tables, conditional formatting, and data validation.  
 - **Automation**: Streamlined workflows with VBA macros and dynamic formulas.  
 - **Dashboards**: Stunning and interactive charts for data storytelling.  
-![The Wealth of nations(2)xlsx](path/to/excel-image.png) *(Replace with an image of your dashboard)*  
+![The Wealth of nations(2)xlsx](https://github.com/Blackpanther277/Excel-Python-SQL-queries/blob/main/The%20Wealth%20of%20nations%20(2).xlsx) *(Replace with an image of your dashboard)*  
 
 ### 🐍 **Python Expertise**  
 - **Data Wrangling**: Efficient data cleaning and transformation with `pandas` and `numpy`.  
